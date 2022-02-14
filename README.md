@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **joaopedrobzlioneza@gmail.com**
 
-- ⚡ Fun fact **I began my academic life studying Electrical Engeneering, but halfway through the course, I realised that it's no what I wanted for life, and began studying Python. Now I'm a bachelor to be in System's Information, already working on it and happy with my decision :)**
+- ⚡ Fun fact **I began my academic life studying Electrical Engeneering, but halfway through the course, I realised that was not what I wanted for life, and began studying Python. Now I'm a bachelor to be in System's Information, already working on it and happy with my decision :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
