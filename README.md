@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I began my academic life studying Electrical Engeneering, but halfway through the course I realised that was not what I wanted for life and then, I began studying Python. Now I'm a bachelor-to-be in [Sistemas de Informação](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao) at [Universidade Federal Fluminense](https://www.uff.br/), already working with it and happy with my decision :)**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionezajoao&layout=compact)](https://github.com/danieomundo/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lionezajoao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lionezajoao/" height="30" width="40" /></a>
