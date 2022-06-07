@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: [PinkApp](https://pinkapp.com/)
 
-- 🌱 I’m currently learning: **JavaScript and ReactJS**
+- 🌱 I’m currently learning: **GOLANG**
 
 - 💬 Ask me about: **Python scripts and Web Scrapping, Python made ETL, MongoDB Databases and Data Analysis**
 
