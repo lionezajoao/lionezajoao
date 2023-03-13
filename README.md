@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Pedro Barboza</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lionezajoao&label=Profile%20views&color=0e75b6&style=flat" alt="lionezajoao" /> </p>
-
-- 🔭 I’m currently working on: [PinkApp](https://pinkapp.com/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lionezajoao&label=Profile%20views&color=0e75b6&style=flat" alt="lionezajoao" /> </p>\
 
 - 🌱 I’m currently learning: **GOLANG**
 
